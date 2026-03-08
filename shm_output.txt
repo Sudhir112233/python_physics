@@ -1,0 +1,4 @@
+Amplitude = 10
+Angular Frequency = 3
+Time = 2
+Displacement = -2.7941549819892586
